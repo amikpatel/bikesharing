@@ -13,3 +13,7 @@ The median household income average for the years 2014 to 2018 of NYC was $60,76
 ### Commute Times
 Basis the census data we find the average travel time to work in NYC is 41.2 minutes.  While the average travel time in Des Moines to be 19 minutes.
 ### Weather
+See the basic comparison of weather data comparing New York City and Des Moines:
+
+<iframe frameborder="0" width="470px" height="430px" style="overflow:hidden;" scrolling="no" src="https://www.usclimatedata.com/climate-graph.php?id=usny0996&system=american&title=1"></iframe>
+
